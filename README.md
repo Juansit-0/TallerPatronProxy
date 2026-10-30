@@ -37,3 +37,8 @@ Each log contains `requestId` (UUID), `serviceId`, `operation`, `durationMs`, `s
 ```
 
 Environment: `PORT` (default 8080), `ALLOWED_ORIGIN` (default `*`).
+
+## Production
+
+- Frontend (Vercel): https://taller-patron-proxy-frontend-theta.vercel.app
+- Backend (Railway): https://taller-patron-proxy-production.up.railway.app/api/metrics/summary
